@@ -1,0 +1,37 @@
+#header{
+
+}
+#header img{
+    max-width:80px;
+}
+#header .navbar-brand{
+    color:rgb(115, 92, 124);
+    font-style:italic;
+}
+#header button{
+    background-color:rgb(115, 92, 124);
+    color:#fff;
+    border:1px solid rgb(115, 92, 124);
+}
+#header form{
+    margin:0 0 0 auto;
+}
+#body{
+    padding:0;
+}
+agm-map{
+    height:100vh;
+}
+.error{
+    display: block;
+    background-color: #f33b3b;
+    color: #fff;
+    padding: 7px 5px;
+    width: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+#body h5{
+    text-transform:capitalize;
+}
